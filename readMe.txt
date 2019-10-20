@@ -8,4 +8,6 @@ the last one is saved under '.hbs'
    login.html - a page for start the login process.
    home.html - takes you to the home page. 
    hallReg.html - the hall registration form page.
+   
+ 3. Remember to put all these files in the 'views' directory.  
 
